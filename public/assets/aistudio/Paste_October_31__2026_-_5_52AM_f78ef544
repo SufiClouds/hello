@@ -1,0 +1,1068 @@
+# MASTER PROMPT — ADEEL ENGINEERING WORKS
+## Build an Ultra-Premium, Fully Responsive, Multi-Page Industrial Corporate Website
+
+### YOUR ROLE
+
+Act as an elite team of:
+
+- Senior Frontend Engineers
+- Creative Web Designers
+- UI/UX Architects
+- Industrial B2B Website Specialists
+- SEO Specialists
+- Conversion Rate Optimization Experts
+- Quality Assurance Engineers
+
+Your mission is to design and develop a **complete, production-quality, international-standard corporate website for Adeel Engineering Works**, using the attached 18-page company PDF catalogue as the primary authoritative source of information.
+
+This must look and feel like the website of a serious, established, technologically advanced international packaging machinery manufacturer.
+
+**IMPORTANT: I do not want a demo, wireframe, unfinished prototype, generic template, or single-page mockup. I want a complete working website with as many useful, genuinely functional pages as the available company information supports.**
+
+---
+
+# 1. MANDATORY TECHNOLOGY STACK
+
+Build the website using:
+
+- HTML5
+- CSS3
+- Vanilla JavaScript (ES6+)
+- CSS Grid and Flexbox
+- Semantic HTML
+- Reusable CSS architecture
+- Modular JavaScript files
+- Accessible, responsive components
+
+Do not use React, Next.js, Vue, Angular, WordPress, Bootstrap, Tailwind or a JavaScript SPA framework.
+
+You may use a carefully selected lightweight icon library if needed, but prioritize self-contained code, SVG icons and minimal dependencies.
+
+The website must work as a static multi-page project, deployable to ordinary shared hosting, cPanel, Netlify, Vercel or GitHub Pages.
+
+Use real HTML pages and meaningful links, not simulated navigation.
+
+---
+
+# 2. FIRST TASK — DEEPLY ANALYZE THE ATTACHED PDF
+
+Before writing code:
+
+1. Read all 18 pages of the attached catalogue.
+2. Extract company background, history and positioning.
+3. Identify the CEO and company management information.
+4. Extract mission, vision and engineering competencies.
+5. Identify every machine listed in the catalogue.
+6. Extract every available technical specification.
+7. Identify all imported products and supporting equipment.
+8. Extract authentic company logos and machinery photographs.
+9. Identify all client logos.
+10. Extract contact numbers, email, website and address.
+11. Create a structured content inventory and page map.
+12. Identify unclear or contradictory information without inventing corrections.
+
+Use the catalogue as your primary factual source.
+
+### Source integrity requirements
+
+- Never invent product specifications, prices, certifications, awards, testimonials, client reviews, warranties or technical performance claims.
+- Do not assume every machine includes features shown on a different product.
+- Preserve the difference between machine variants.
+- Where information is missing, use a professional "Request Technical Details" or "Contact Our Team" CTA.
+- If source wording is grammatically weak, rewrite it in polished professional English while preserving its meaning.
+- Avoid publishing unclear specifications as verified facts.
+- Keep approximate specifications clearly identified as approximate.
+- Do not claim any external certification unless explicitly documented.
+- Any customer logos shown must come from the actual attached catalogue.
+- Do not generate fake factory, team, client or machine photographs and present them as authentic.
+
+---
+
+# 3. COMPANY INFORMATION
+
+Company: **Adeel Engineering Works**
+
+Primary identity:
+
+**Adeel Engineering — Packing & Processing Machines**
+
+Brand positioning:
+
+Industrial machinery manufacturing, automation, packaging engineering and customized processing solutions.
+
+Founded: **2005**
+
+CEO: **Adeel Ahmed Niazi**
+
+Catalogue website:
+
+**www.adeelengineeringpk.com**
+
+Catalogue email:
+
+**adeelahmad69638@gmail.com**
+
+Business location:
+
+College Road, near Jawala Nagar Railway Phatak (Crossing), opposite Laboratory High School, Saminabad, Faisalabad, Pakistan.
+
+Contact persons:
+
+- Adeel Niazi: 0302-7012696
+- Noshad Niazi: 0307-8870007
+- Abdul Manan Niazi: 0308-0450696
+
+Use international +92 links where appropriate.
+
+Company capabilities documented by the catalogue include:
+
+- Automatic packing machinery
+- Semi-automatic packing machinery
+- Granule packaging
+- Powder packaging
+- Liquid packaging
+- Precision pouch packaging
+- PLC-based machine control
+- Servo-driven automation
+- Photo-registration technology
+- Stainless-steel equipment construction
+- Customized packing machines
+- Processing equipment
+- Turnkey packaging and processing solutions
+- Engineering support and machine consultation
+
+The catalogue indicates 100+ machines on its cover. Treat this as a catalogue marketing statement, not as proof that 100 individually documented product models exist.
+
+---
+
+# 4. DESIGN VISION — INTERNATIONAL PREMIUM INDUSTRIAL STANDARD
+
+The design quality must be comparable in professionalism, visual structure and usability to a high-end industrial machinery manufacturer's corporate website.
+
+Do not copy another company's branding, assets or layout.
+
+### Brand design direction
+
+Create an elegant and powerful industrial aesthetic.
+
+Color palette:
+
+- Industrial Navy: #073B70
+- Deep Midnight: #061B30
+- Electric Industrial Blue: #1479C9
+- Pure White: #FFFFFF
+- Brushed Metal Silver: #E8EDF2
+- Soft Background: #F5F7FA
+- Graphite Text: #273443
+
+Use the company's existing logo colors as the final branding authority.
+
+Visual elements:
+
+- Bold editorial typography
+- Premium engineered spacing
+- Strong visual hierarchy
+- Crisp machine photography
+- Professional specification tables
+- Tasteful industrial line patterns
+- Subtle blue accents
+- Technical grids
+- Geometric backgrounds
+- Precision-inspired dividers
+- Soft shadows
+- Controlled border radii
+- Premium dark sections
+- Elegant CTA components
+- High-quality hover interactions
+
+Typography:
+
+Use a polished combination such as Manrope or Inter for body text and an industrial-looking modern sans-serif for headings.
+
+### Design rules
+
+- No overcrowded layouts.
+- No cheap gradients.
+- No excessive glowing effects.
+- No unnecessary animation.
+- No generic AI-looking imagery.
+- No pixelated or stretched product photographs.
+- No arbitrary repeated stock photos.
+- No fabricated statistics.
+- No messy inconsistent spacing.
+- No unfinished placeholders.
+
+The result should look credible to industrial procurement managers, engineers, factory owners and international B2B buyers.
+
+---
+
+# 5. COMPLETE MULTI-PAGE WEBSITE ARCHITECTURE
+
+Create the following functional pages and expand the architecture where the catalogue supports additional content.
+
+## Corporate Pages
+
+1. Home
+2. About Us
+3. Company History
+4. CEO & Leadership
+5. Mission & Vision
+6. Engineering Capabilities
+7. Industries We Serve
+8. Customized Machinery Solutions
+9. Packaging & Processing Solutions
+10. Our Clients
+11. Product Catalogue
+12. Imported Products & Accessories
+13. Request a Quotation
+14. Contact Us
+15. Frequently Asked Questions
+16. Privacy Policy
+17. Terms of Use
+18. Custom 404 Page
+
+Combine overlapping pages where necessary to avoid thin or repetitive content.
+
+Legal pages must be honest, suitable draft policies and clearly flagged for company review where needed.
+
+## Product Detail Pages
+
+Create separate individual detail pages for all 11 core machine entries from pages 4–14 of the PDF:
+
+1. Filter Tobacco Pouch Packing Machine
+2. 2-in-1 Hair Color Pouch Packing Machine
+3. Multi-Functional & Tray Packing Machine
+4. 6-Line Shampoo Packing Machine
+5. Automatic Liquid Pouch Packing Machine
+6. Central Seal Packing Machine
+7. Four Edge Sealing Grain Packaging Machine
+8. Three Edge Sealing Grain Packaging Machine
+9. Back Seal Feeder Automatic Packing Machine
+10. Back Cover Powder Screw Automatic Packing Machine — 5 g to 50 g
+11. Back Cover Powder Screw Automatic Packing Machine — 50 g to 1 kg
+
+Keep the two powder packing machine variants separate.
+
+For every machine, generate a unique, useful detail page with actual product information and images from the PDF.
+
+## Imported Equipment Pages
+
+Create a listing and useful detail pages for the equipment shown on pages 15–17, depending on the amount of available information.
+
+### Processing and Supporting Equipment
+
+- Screw Feeder
+- Z-Conveyor
+- Coating Pan
+- U-Mixer
+- Ribbon Mixer
+- Dryer Machine
+
+### Imported Products
+
+- Liquid Filling Machine
+- DK-1100A Ink Roll Coder
+- Continuous Band Sealer
+- Thermal Ink-Jet Printer
+- Continuous Ink-Jet Printer
+- Horizontal Band Sealer
+- Foot Sealer
+- Digital Granule Filler
+- Sleeve Wrapper & Shrink Tunnel
+- Automatic Induction Sealer
+- Manual Induction Sealer
+- Ultrasonic Tube Sealing Machine
+- Weighing Machine
+- Online Printer
+- L-Bar Sealer & Shrink Tunnels
+- Semi-Auto Round Bottle Sticker Labeller
+
+Do not invent technical specifications for imported products that are only identified by name and image.
+
+For those items, a short, accurate product overview, image and quotation CTA are sufficient.
+
+Aim for approximately 30–45 meaningful pages or routes overall, subject to real content availability.
+
+---
+
+# 6. HOMEPAGE — PREMIUM VISUAL EXPERIENCE
+
+Create a truly outstanding homepage.
+
+### Section 1: Navigation
+
+Premium, responsive header with:
+
+- Authentic company logo
+- Home
+- About Us dropdown
+- Products mega-menu
+- Industries
+- Solutions
+- Our Clients
+- Contact
+- Request a Quote CTA
+- Mobile hamburger navigation
+
+The products mega-menu should group machines logically.
+
+Sticky navigation with tasteful scroll behavior.
+
+### Section 2: Hero
+
+Create a premium, spacious full-screen or near-full-screen hero featuring an authentic packaging machine photograph extracted from the catalogue.
+
+Suggested heading:
+
+**Precision Engineering. Powerful Packaging Solutions.**
+
+Supporting message:
+
+"Advanced packing and processing machinery engineered to help manufacturers automate, optimize and scale their production."
+
+Primary CTA: Explore Our Machines
+
+Secondary CTA: Request a Quotation
+
+Add refined motion, subtle industrial patterns and modern visual hierarchy.
+
+### Section 3: Company Introduction
+
+Heading:
+
+"Engineering Packaging Excellence Since 2005"
+
+Introduce Adeel Engineering Works using the catalogue's documented company history.
+
+Include:
+
+- Company story
+- Manufacturing and engineering focus
+- Commitment to quality
+- Customized machine solutions
+- Link to About Us
+
+### Section 4: Core Expertise
+
+Create visually attractive cards for:
+
+- Precision Engineering
+- PLC & HMI Automation
+- Customized Machine Design
+- Packaging & Processing Lines
+- Industrial Equipment
+- Engineering Consultation
+
+### Section 5: Featured Machines
+
+Display 6–8 different real machines from the catalogue.
+
+Each card must include:
+
+- Machine photograph
+- Machine name
+- Category
+- Short verified description
+- View Details CTA
+- Request Quote CTA
+
+### Section 6: Product Categories
+
+Create interactive category cards for:
+
+- Pouch Packaging
+- Powder Packaging
+- Liquid Packaging
+- Multi-Lane Packaging
+- Food Packaging
+- Processing Equipment
+- Imported Equipment
+- Sealing & Coding Machines
+
+Ensure category labels accurately describe relevant catalogue products.
+
+### Section 7: Why Choose Adeel Engineering
+
+Use documented company strengths:
+
+- Industry experience since 2005
+- Engineering-focused machine designs
+- Automation and controls
+- Customized machinery options
+- Broad packaging applications
+- Customer support orientation
+
+### Section 8: Industries We Serve
+
+Create cards for industries supported by the catalogue:
+
+- Food & Beverage
+- Cosmetics & Personal Care
+- Powder & Spice Processing
+- Detergent & Household Products
+- Industrial Packaging
+- Other Specialized Packaging Applications
+
+Avoid promising suitability for regulated uses without appropriate validation.
+
+### Section 9: Featured Solutions
+
+Show applications such as:
+
+- Liquid sachet packaging
+- Powder dosing and packing
+- Hair color sachet packaging
+- Granule packing
+- Sealing and coding
+- Processing and conveying equipment
+
+### Section 10: Our Clients
+
+Extract and display client logos from page 18.
+
+Do not modify them, mislabel them or invent endorsements.
+
+Include a responsive logo grid.
+
+### Section 11: Engineering Inquiry CTA
+
+Heading:
+
+"Need a Packaging Solution Built Around Your Production?"
+
+Include:
+
+- Request Custom Machine
+- Talk to Our Team
+- WhatsApp Inquiry
+
+### Section 12: Contact Preview
+
+Show Faisalabad business address, contact numbers, email and Google Maps link.
+
+### Section 13: Premium Footer
+
+Include:
+
+- Company logo
+- Short company description
+- Quick links
+- Product categories
+- Contact information
+- Social media links where verified
+- Copyright notice
+- Privacy and terms links
+
+---
+
+# 7. PRODUCT DETAIL PAGE DESIGN
+
+Every main machine requires an outstanding detail layout.
+
+Suggested structure:
+
+1. Breadcrumb navigation
+2. Product headline
+3. Main product image
+4. Product image gallery where usable assets exist
+5. Short description
+6. Key specifications
+7. Features and benefits
+8. Applicable industries
+9. Suitable materials and packaging formats
+10. Technical highlights
+11. Available customization information
+12. Product inquiry CTA
+13. Related machines
+14. WhatsApp inquiry
+15. Back to catalogue link
+
+### Product specifications
+
+Use structured product-specific data.
+
+For example, information documented for the Filter Tobacco Pouch Packing Machine includes a listed production speed of 180–250 pouches per minute and PLC/HMI, servo and other component information.
+
+The Central Seal Packing Machine lists 36 pouches per minute, 220 V and 3 kW.
+
+The Back Seal Feeder Automatic Packing Machine lists 20–30 bags per minute and a 1–2 kg maximum-weight range.
+
+Only use a value on the relevant product page when it is actually associated with that machine in the PDF.
+
+Never apply one machine's specification to every machine.
+
+Use a professional two-column technical-specification table.
+
+Missing data should remain absent rather than populated with guesses.
+
+---
+
+# 8. PDF IMAGE EXTRACTION — CRITICAL
+
+The uploaded PDF contains real product photographs. Extract and use them.
+
+### Required asset workflow
+
+1. Inspect PDF images and page layout.
+2. Extract embedded images using an appropriate PDF processing tool.
+3. Where necessary, carefully crop product photographs from rendered PDF pages.
+4. Keep each machine's photograph matched to its actual product name and source page.
+5. Preserve image proportions.
+6. Remove unnecessary white margins only when practical.
+7. Generate optimized WebP or suitably compressed image versions.
+8. Maintain reasonable resolution and clarity.
+9. Create organized filenames.
+10. Add meaningful alt text.
+11. Preserve originals for reference.
+
+Suggested folder structure:
+
+assets/images/branding/
+
+assets/images/machines/
+
+assets/images/processing/
+
+assets/images/imported-products/
+
+assets/images/clients/
+
+assets/images/backgrounds/
+
+Do not use the full PDF page as a substitute for a clean standalone product image unless no suitable extraction is possible.
+
+Do not fabricate a machinery photograph.
+
+If exact extraction is impossible, use the best faithful crop available and clearly identify any limitations.
+
+Prioritize visual accuracy over decorative effects.
+
+---
+
+# 9. INTERACTIVE PRODUCT CATALOGUE
+
+Build a fully functioning product catalogue system using Vanilla JavaScript.
+
+Features:
+
+- Search machines by name
+- Filter by product category
+- Filter by application when supported by product data
+- Clear filters
+- Sort alphabetically
+- Responsive cards
+- Product detail links
+- Visible result count
+- Friendly empty-result state
+- Smooth category selection
+- Shareable category links where practical
+
+Store the machine content in a centralized data file, such as products.js or products.json.
+
+Use reusable page rendering logic without sacrificing SEO-friendly static pages.
+
+Avoid duplicating product descriptions in many files unnecessarily.
+
+---
+
+# 10. FULLY FUNCTIONAL QUOTATION SYSTEM
+
+Create a professionally designed Request a Quotation page.
+
+Required inputs:
+
+- Full Name
+- Company Name
+- Email Address
+- Phone / WhatsApp
+- Country
+- Industry
+- Interested Machine
+- Product or Material to Pack
+- Required Production Capacity
+- Additional Requirements
+- Message
+
+Requirements:
+
+- Accessible labels
+- Form validation
+- Correct input types
+- Required-field indicators
+- Clear validation messages
+- Responsive layout
+- Mobile-friendly interaction
+
+Since the project must use HTML, CSS and JavaScript only, do not falsely imply a secure backend exists.
+
+Implement a functional email-draft or WhatsApp-based submission method, with a clear message explaining how the inquiry is sent.
+
+If a static form service is used, place its configuration in an obvious location and document the necessary setup.
+
+Do not hardcode private API keys or expose secrets.
+
+Product detail pages must preselect or automatically include the relevant machine in their inquiry links when possible.
+
+---
+
+# 11. WHATSAPP BUSINESS INTEGRATION
+
+Create WhatsApp inquiry functionality using the company's catalogue phone number.
+
+Default business WhatsApp contact:
+
++92 302 7012696
+
+Allow the number to be edited in one central configuration file if the business uses another WhatsApp number.
+
+Add a floating WhatsApp button with an accessible label.
+
+Example product-specific message:
+
+"Hello Adeel Engineering, I am interested in the [Machine Name]. Please share its specifications, quotation and availability."
+
+Use properly encoded WhatsApp links.
+
+Do not claim the number is WhatsApp-enabled until it is verified.
+
+---
+
+# 12. ABOUT US AND CORPORATE PRESENTATION
+
+The About section should feel like a professional manufacturing company profile.
+
+Include:
+
+- Introduction to Adeel Engineering Works
+- Company history since 2005
+- The company's commitment to quality
+- CEO Adeel Ahmed Niazi
+- Engineering expertise
+- Custom manufacturing approach
+- Packaging automation capabilities
+- Mission and vision
+- Company values derived from the catalogue
+
+Use the genuine CEO photograph from page 2 if it can be extracted clearly.
+
+Do not invent team members or management biographies.
+
+---
+
+# 13. CLIENT PORTFOLIO
+
+Extract authentic client logos from page 18.
+
+Build a premium, responsive logo presentation.
+
+Requirements:
+
+- Clean logo grid
+- Appropriate image padding
+- Consistent visual sizing
+- Responsive layout
+- Accurate labeling only where legible
+- No fake testimonials
+- No invented partnerships
+- No made-up project descriptions
+
+Use a heading such as:
+
+"Companies Featured in Our Client Portfolio"
+
+Only make stronger business relationship claims where the catalogue supports them.
+
+---
+
+# 14. INDUSTRIES AND SOLUTIONS
+
+Create professional industry pages or detailed sections for relevant applications.
+
+Each should explain:
+
+- Typical packaging challenge
+- Relevant Adeel Engineering machines
+- Packaging formats supported
+- Practical applications documented in the catalogue
+- Links to relevant products
+- Request a Custom Solution CTA
+
+Avoid inventing precise ROI percentages, cost savings, speed improvements or guarantees.
+
+---
+
+# 15. ADVANCED INTERACTIONS
+
+Build refined and functional interactions:
+
+- Sticky header
+- Responsive navigation
+- Mobile menu
+- Dropdown menus
+- Product mega-menu
+- Search and filtering
+- Image galleries
+- Image lightbox where useful
+- Smooth anchor navigation
+- Subtle scroll reveal animations
+- Number or metric animations only for verified metrics
+- Accordion FAQs
+- Back-to-top button
+- Form validation
+- WhatsApp integration
+- Copy contact information option
+- Active navigation states
+- Related product cards
+- Optional comparison of products with available technical data
+
+Use Intersection Observer for scroll animation.
+
+Respect prefers-reduced-motion.
+
+All interactive elements must actually function.
+
+---
+
+# 16. RESPONSIVE DESIGN REQUIREMENTS
+
+The website must look exceptional on:
+
+- Large desktop screens
+- Standard laptop screens
+- Tablets
+- Android smartphones
+- iPhones
+- Small mobile screens
+
+Test responsive layouts at approximately:
+
+- 375 px
+- 430 px
+- 768 px
+- 1024 px
+- 1440 px
+- 1920 px
+
+No horizontal scrolling, overlapping content, unreadable text or broken grids.
+
+Ensure:
+
+- Large touch targets
+- Responsive typography
+- Optimized media
+- Adaptive navigation
+- Readable technical tables on mobile
+- Correct image cropping
+- Balanced section spacing
+
+---
+
+# 17. SEO AND PERFORMANCE
+
+Implement SEO best practices across the site.
+
+Every page should have:
+
+- Unique title tag
+- Meta description
+- Proper heading hierarchy
+- Semantic HTML
+- Descriptive internal links
+- Appropriate image alt attributes
+- Canonical URL when deployment domain is confirmed
+- Open Graph metadata
+- Relevant structured data where supported
+
+Add:
+
+- sitemap.xml
+- robots.txt
+- Custom favicon derived from genuine company branding
+- Organization schema
+- Product schema where appropriate and truthful
+- Breadcrumb schema where appropriate
+
+Use the company domain from the PDF as a reference, but verify the intended live deployment domain before final deployment configuration.
+
+Performance requirements:
+
+- Optimized image sizes
+- Lazy-loaded below-the-fold images
+- Minimal JavaScript
+- Deferred noncritical scripts
+- Minimal layout shift
+- Efficient CSS
+- No unnecessary third-party scripts
+- No broken media
+
+Aim for excellent Lighthouse performance, accessibility, best practices and SEO scores, without claiming measured results until tested.
+
+---
+
+# 18. ACCESSIBILITY
+
+Follow WCAG 2.2 AA principles where practical.
+
+Include:
+
+- Semantic landmarks
+- Keyboard navigation
+- Visible focus indicators
+- Accessible forms
+- Proper contrast ratios
+- Meaningful alt text
+- ARIA attributes where required
+- Correct heading hierarchy
+- Descriptive buttons
+- Reduced-motion compatibility
+- Mobile accessibility
+
+---
+
+# 19. FILE STRUCTURE
+
+Organize the project professionally.
+
+Example:
+
+adeel-engineering-website/
+
+- index.html
+- about.html
+- history.html
+- leadership.html
+- mission-vision.html
+- engineering-capabilities.html
+- products.html
+- imported-products.html
+- industries.html
+- solutions.html
+- clients.html
+- request-quote.html
+- contact.html
+- faq.html
+- privacy-policy.html
+- terms.html
+- 404.html
+- products/
+  - Individual product HTML pages
+- assets/
+  - css/
+    - main.css
+    - responsive.css
+  - js/
+    - main.js
+    - products.js
+    - catalogue.js
+    - filters.js
+    - forms.js
+    - animations.js
+  - images/
+    - branding/
+    - machines/
+    - imported-products/
+    - clients/
+- sitemap.xml
+- robots.txt
+- README.md
+
+You may improve this architecture if you can justify a cleaner implementation.
+
+Avoid creating unnecessary empty files.
+
+All actual page links must resolve.
+
+---
+
+# 20. CODE QUALITY
+
+Write clean, professional, maintainable code.
+
+Use:
+
+- CSS custom properties
+- Consistent spacing variables
+- Reusable components
+- Shared header and footer logic where suitable
+- Proper separation of concerns
+- Clear JavaScript modules
+- Modern event handling
+- Descriptive function names
+- Error handling
+- Consistent naming conventions
+- Minimal code duplication
+
+Avoid unnecessary libraries.
+
+Use local assets wherever possible.
+
+Never leave unfinished "TODO" sections in the final production experience.
+
+---
+
+# 21. FUNCTIONAL TESTING
+
+After development, test the website thoroughly.
+
+Verify:
+
+1. Every page exists.
+2. Every navigation link works.
+3. All images load.
+4. Product detail pages show the correct machine.
+5. Product information matches the PDF.
+6. Search works.
+7. Filters work.
+8. Dropdown menus work.
+9. Mobile navigation works.
+10. Inquiry links work.
+11. WhatsApp messages include the right product.
+12. Forms validate correctly.
+13. No broken JavaScript.
+14. No console errors.
+15. No inaccessible interactive controls.
+16. Layouts work across screen sizes.
+17. No fabricated company facts.
+18. No missing footer or header.
+19. No dead buttons.
+20. All production assets are included.
+
+If browser testing tools are available, actually open the site at desktop and mobile viewports and correct visible issues.
+
+---
+
+# 22. CONTENT WRITING STANDARD
+
+Write all website content in premium, professional English appropriate for an international industrial machinery company.
+
+Tone:
+
+- Engineering-oriented
+- Trustworthy
+- Precise
+- Confident
+- Corporate
+- Technically credible
+- Buyer-focused
+
+Avoid:
+
+- Generic AI marketing text
+- Excessive superlatives
+- Unverifiable global leadership claims
+- Fake certifications
+- Repeated descriptions
+- Empty marketing slogans
+
+Use the company catalogue for machine data, then convert its language into polished B2B website copy.
+
+---
+
+# 23. DEVELOPMENT EXECUTION PLAN
+
+Work systematically.
+
+### Phase 1 — PDF Audit
+
+Read the PDF and build a verified company and product data inventory.
+
+### Phase 2 — Asset Preparation
+
+Extract company branding, machinery photographs, CEO photo and client logos.
+
+### Phase 3 — Design System
+
+Implement typography, colors, spacing, buttons, cards, navigation and reusable patterns.
+
+### Phase 4 — Homepage
+
+Complete the polished homepage and responsive navigation.
+
+### Phase 5 — Corporate Pages
+
+Develop company background, leadership, mission, capabilities and contact pages.
+
+### Phase 6 — Product Catalogue
+
+Build real product search, filters, categories and machine cards.
+
+### Phase 7 — Machine Detail Pages
+
+Develop individual product pages with specifications from the PDF.
+
+### Phase 8 — Imported Products
+
+Integrate imported equipment and supporting processing machines.
+
+### Phase 9 — Conversion Features
+
+Build inquiry workflows, WhatsApp links and quotation functionality.
+
+### Phase 10 — Optimization
+
+Complete SEO, responsiveness, accessibility, performance and error handling.
+
+### Phase 11 — Quality Assurance
+
+Test and fix the completed website.
+
+Do not stop after creating the homepage.
+
+Continue implementing the remaining architecture within the available project environment.
+
+If execution must be split into multiple tasks, preserve completed work, write a precise progress checklist and continue from the unfinished tasks rather than restarting.
+
+---
+
+# 24. FINAL DELIVERABLES
+
+Provide:
+
+1. Complete working website source code.
+2. Every HTML page.
+3. All required CSS.
+4. All JavaScript files.
+5. Extracted and optimized images.
+6. All product data.
+7. Fully working navigation.
+8. Functional catalogue search.
+9. Product detail pages.
+10. Functional contact and quotation pathways.
+11. Responsive mobile layouts.
+12. SEO configuration.
+13. A professional README.
+14. Local installation instructions.
+15. Hosting and deployment instructions.
+16. A short list of any details still requiring company confirmation.
+17. A final checklist identifying which features were tested.
+
+The website must be ready to preview locally and straightforward to upload to a hosting provider.
+
+---
+
+# 25. NON-NEGOTIABLE SUCCESS CRITERIA
+
+The finished product must:
+
+- Look like a genuine premium industrial engineering corporate website.
+- Reflect Adeel Engineering Works' actual identity.
+- Use authentic company product photography.
+- Cover every meaningful machine documented in the PDF.
+- Provide extensive yet useful multi-page content.
+- Work on desktop and mobile.
+- Have professional UX and clear calls to action.
+- Enable real customer inquiries without pretending there is a backend.
+- Remain technically accurate.
+- Contain no dummy testimonials, fake company claims or broken links.
+- Be maintainable and deployable.
+- Feel like a complete commercial website, not an AI-generated sample project.
+
+**FINAL INSTRUCTION:**
+
+You are responsible for implementing the actual website files, not merely explaining how to build the website.
+
+Begin by analyzing the attached PDF, extracting its assets, planning the complete information architecture and then writing the full production-quality HTML, CSS and JavaScript project.
+
+Prioritize exceptional quality, authentic content, strong B2B design, maximum useful product coverage and complete functionality.
+
+Build the complete **Adeel Engineering Works** website now.

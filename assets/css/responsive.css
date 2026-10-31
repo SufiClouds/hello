@@ -1,0 +1,125 @@
+/* RESPONSIVE STYLES FOR ADEEL ENGINEERING WORKS */
+
+@media (max-width: 1200px) {
+  .hero-title {
+    font-size: 2.75rem;
+  }
+  .grid-4 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .client-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  .footer-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 992px) {
+  .nav-menu, .nav-cta .btn-quote-desktop {
+    display: none;
+  }
+  .mobile-toggle {
+    display: block;
+  }
+  .topbar-left, .topbar-right {
+    font-size: 0.75rem;
+  }
+  .hero-grid {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+  .hero-image-frame img {
+    height: 380px;
+  }
+  .grid-3 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .grid-2 {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+  .mega-menu {
+    display: none !important;
+  }
+  .spec-table th {
+    width: 45%;
+  }
+}
+
+@media (max-width: 768px) {
+  .section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .section-title {
+    font-size: 1.875rem;
+  }
+  .hero-title {
+    font-size: 2.25rem;
+  }
+  .hero-metrics {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  .grid-3, .grid-4 {
+    grid-template-columns: 1fr;
+  }
+  .client-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .form-row {
+    grid-template-columns: 1fr;
+  }
+  .footer-grid {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+  .topbar {
+    display: none;
+  }
+  .form-card {
+    padding: 24px 16px;
+  }
+  .spec-table th, .spec-table td {
+    padding: 10px 12px;
+    font-size: 0.8125rem;
+  }
+  .floating-whatsapp {
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 16px;
+    font-size: 0.8125rem;
+  }
+  .floating-whatsapp span {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-title {
+    font-size: 1.875rem;
+  }
+  .brand-title {
+    font-size: 1.0625rem;
+  }
+  .brand-logo-img {
+    height: 42px;
+  }
+  .btn {
+    width: 100%;
+  }
+  .hero-actions {
+    flex-direction: column;
+    width: 100%;
+  }
+  .machine-card-footer {
+    flex-direction: column;
+  }
+  .machine-card-footer .btn {
+    width: 100%;
+  }
+  .client-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
